@@ -1,5 +1,3 @@
-# threat-intel-iocs
-A running log of indicators of compromise (IOCs) and threat intel findings from hands-on security investigations.
 # Threat Intel & IOC Log
 
 A running log of indicators of compromise (IOCs) identified during
